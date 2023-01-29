@@ -1,6 +1,6 @@
 README
 ============
-PA1 Ishaan Das
+Project that uses linked lists to sort strings from an input file in alphabetical order
 ----------------
 List.h - Header file that serves as the interface for all the functions defined in List.c and used in Lex.c
 
